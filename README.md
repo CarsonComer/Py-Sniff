@@ -20,13 +20,6 @@ Because this script interacts with **raw network sockets**, it must be executed 
   sudo python3 py_sniff.py
   ```
 
-## 📈 Project Adversity & Learning
-The most significant hurdle in this project was **overestimating my initial Python proficiency.** While I understood basic syntax, applying it to real-time network data was a steep learning curve.
-
-* **The Challenge:** Translating raw packet data into a readable CSV format required a deeper understanding of the Scapy library than I initially anticipated.
-* **The Pivot:** I shifted from trying to "code fast" to "learning deep," spending extra time in the Scapy documentation to ensure the parser handled various protocols correctly.
-* **The Result:** This project significantly improved my ability to troubleshoot logical errors and reinforced my understanding of Linux file permissions and network security constraints.
-
 ## About the Developer
 * **Student Status:** I am currently a **Cybersecurity Major**. I want to preface that **I am not a professional programmer**; this project was created for the purpose of learning and testing.
 * **Security Note:** As a student project, there may be bugs or security flaws present.
